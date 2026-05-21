@@ -1,0 +1,1 @@
+print(hozir.year, hozir.month, hozir.day)
